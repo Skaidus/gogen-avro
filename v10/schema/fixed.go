@@ -3,7 +3,7 @@ package schema
 import (
 	"fmt"
 
-	"github.com/actgardner/gogen-avro/v10/generator"
+	"github.com/Skaidus/gogen-avro/v10/generator"
 )
 
 type FixedDefinition struct {

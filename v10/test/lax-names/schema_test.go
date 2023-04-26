@@ -3,7 +3,7 @@ package avro
 import (
 	"testing"
 
-	"github.com/actgardner/gogen-avro/v10/compiler"
+	"github.com/Skaidus/gogen-avro/v10/compiler"
 
 	"github.com/stretchr/testify/assert"
 )

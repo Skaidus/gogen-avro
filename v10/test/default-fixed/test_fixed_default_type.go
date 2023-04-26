@@ -9,8 +9,8 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/actgardner/gogen-avro/v10/util"
-	"github.com/actgardner/gogen-avro/v10/vm/types"
+	"github.com/Skaidus/gogen-avro/v10/util"
+	"github.com/Skaidus/gogen-avro/v10/vm/types"
 )
 
 func writeTestFixedDefaultType(r TestFixedDefaultType, w io.Writer) error {
