@@ -3,9 +3,9 @@ package generic
 import (
 	"io"
 
-	"github.com/Skaidus/gogen-avro/v10/compiler"
-	"github.com/Skaidus/gogen-avro/v10/schema"
-	"github.com/Skaidus/gogen-avro/v10/vm"
+	"github.com/actgardner/gogen-avro/v10/compiler"
+	"github.com/actgardner/gogen-avro/v10/schema"
+	"github.com/actgardner/gogen-avro/v10/vm"
 )
 
 type Codec struct {

@@ -4,12 +4,12 @@ import (
 	"io"
 	"testing"
 
-	"github.com/Skaidus/gogen-avro/v10/container"
-	"github.com/Skaidus/gogen-avro/v10/test"
+	"github.com/actgardner/gogen-avro/v10/container"
+	"github.com/actgardner/gogen-avro/v10/test"
 )
 
 import (
-	"github.com/Skaidus/gogen-avro/v10/compiler"
+	"github.com/actgardner/gogen-avro/v10/compiler"
 )
 
 func init() {

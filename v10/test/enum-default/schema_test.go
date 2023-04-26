@@ -4,9 +4,9 @@ import (
 	"io"
 	"testing"
 
-	"github.com/Skaidus/gogen-avro/v10/container"
-	"github.com/Skaidus/gogen-avro/v10/test"
-	evolution "github.com/Skaidus/gogen-avro/v10/test/enum-default/evolution"
+	"github.com/actgardner/gogen-avro/v10/container"
+	"github.com/actgardner/gogen-avro/v10/test"
+	evolution "github.com/actgardner/gogen-avro/v10/test/enum-default/evolution"
 )
 
 func TestRoundTrip(t *testing.T) {

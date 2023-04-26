@@ -9,8 +9,8 @@ package avro
 import (
 	"io"
 
-	"github.com/Skaidus/gogen-avro/v10/vm"
-	"github.com/Skaidus/gogen-avro/v10/vm/types"
+	"github.com/actgardner/gogen-avro/v10/vm"
+	"github.com/actgardner/gogen-avro/v10/vm/types"
 )
 
 func writeArrayChild(r []Child, w io.Writer) error {

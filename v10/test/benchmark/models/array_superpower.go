@@ -8,8 +8,8 @@ package models
 import (
 	"io"
 
-	"github.com/Skaidus/gogen-avro/v10/vm"
-	"github.com/Skaidus/gogen-avro/v10/vm/types"
+	"github.com/actgardner/gogen-avro/v10/vm"
+	"github.com/actgardner/gogen-avro/v10/vm/types"
 )
 
 func writeArraySuperpower(r []Superpower, w io.Writer) error {

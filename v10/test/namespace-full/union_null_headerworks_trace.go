@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/Skaidus/gogen-avro/v10/compiler"
-	"github.com/Skaidus/gogen-avro/v10/vm"
-	"github.com/Skaidus/gogen-avro/v10/vm/types"
+	"github.com/actgardner/gogen-avro/v10/compiler"
+	"github.com/actgardner/gogen-avro/v10/vm"
+	"github.com/actgardner/gogen-avro/v10/vm/types"
 )
 
 type UnionNullHeaderworksTraceTypeEnum int
