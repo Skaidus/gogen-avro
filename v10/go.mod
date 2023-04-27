@@ -2,6 +2,7 @@ module github.com/Skaidus/gogen-avro/v10
 
 go 1.17
 
+
 require (
 	github.com/golang/snappy v0.0.4
 	github.com/linkedin/goavro/v2 v2.12.0
