@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/actgardner/gogen-avro/v10/vm/types"
-	"github.com/actgardner/gogen-avro/v10/vm"
+	"github.com/Skaidus/gogen-avro/v10/vm/types"
+	"github.com/Skaidus/gogen-avro/v10/vm"
 )
 
 var _ = fmt.Printf

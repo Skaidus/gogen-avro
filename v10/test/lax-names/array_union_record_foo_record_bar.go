@@ -8,8 +8,8 @@ package avro
 import (
 	"io"
 
-	"github.com/actgardner/gogen-avro/v10/vm"
-	"github.com/actgardner/gogen-avro/v10/vm/types"
+	"github.com/Skaidus/gogen-avro/v10/vm"
+	"github.com/Skaidus/gogen-avro/v10/vm/types"
 )
 
 func writeArrayUnionRecordFooRecordBar(r []UnionRecordFooRecordBar, w io.Writer) error {
