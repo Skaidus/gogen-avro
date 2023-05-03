@@ -1,4 +1,4 @@
-module github.com/actgardner/gogen-avro/v10
+module github.com/masmovil/gogen-avro/v10
 
 
 go 1.17
@@ -16,4 +16,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/actgardner/gogen-avro/v10 => ./
+replace github.com/masmovil/gogen-avro/v10 => ./

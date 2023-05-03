@@ -8,9 +8,9 @@ package avro
 import (
 	"io"
 
-	"github.com/actgardner/gogen-avro/v10/compiler"
-	"github.com/actgardner/gogen-avro/v10/container"
-	"github.com/actgardner/gogen-avro/v10/vm"
+	"github.com/masmovil/gogen-avro/v10/compiler"
+	"github.com/masmovil/gogen-avro/v10/container"
+	"github.com/masmovil/gogen-avro/v10/vm"
 )
 
 func NewAliasedRecordWriter(writer io.Writer, codec container.Codec, recordsPerBlock int64) (*container.Writer, error) {
