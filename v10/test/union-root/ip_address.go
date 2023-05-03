@@ -9,8 +9,8 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/actgardner/gogen-avro/v10/util"
-	"github.com/actgardner/gogen-avro/v10/vm/types"
+	"github.com/masmovil/gogen-avro/v10/util"
+	"github.com/masmovil/gogen-avro/v10/vm/types"
 )
 
 func writeIp_address(r Ip_address, w io.Writer) error {

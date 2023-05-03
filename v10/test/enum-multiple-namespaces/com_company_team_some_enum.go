@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/actgardner/gogen-avro/v10/vm"
-	"github.com/actgardner/gogen-avro/v10/vm/types"
+	"github.com/masmovil/gogen-avro/v10/vm"
+	"github.com/masmovil/gogen-avro/v10/vm/types"
 )
 
 var _ = fmt.Printf
